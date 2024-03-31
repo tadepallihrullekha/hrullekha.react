@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form-container {
+  margin-right: 20px;
+}
+
+.section {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+}
+
+.section h2 {
+  margin-top: 0;
+}
+
+.department-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.department {
+  border: 1px solid #999;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.department h3 {
+  margin: 0;
+}
